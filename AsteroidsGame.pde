@@ -37,12 +37,12 @@ background(0);
   }
   if(keyPressed){
   if(key=='s'){
-    bob.turn(-10);
+    bob.turn(-0.5);
   }
   }
   if(keyPressed){
   if(key=='w'){
-    bob.turn(10);
+    bob.turn(0.5);
   }
   }
   if(keyPressed){
