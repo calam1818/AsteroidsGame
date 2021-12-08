@@ -16,4 +16,3 @@ class Star //note that this class does NOT extend Floater
     ellipse(myX,myY,5,5);
   }
 }
-
